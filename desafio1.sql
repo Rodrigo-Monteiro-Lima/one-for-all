@@ -128,7 +128,7 @@ CREATE TABLE
 
 INSERT INTO
     SpotifyClone.song (album_id, `name`, duration)
-VALUES (1, "BREAK MY SOUL", 279), (1, "VIRGO’S GROOVE", 369), (1, "ALIEN SUPERSTAR", 116), (2, "Dont't Stop Me Now", 203), (3, "Under Pressure", 152), (4, "Como Nossos Pais", 105), (
+VALUES (1, "BREAK MY SOUL", 279), (1, "VIRGO’S GROOVE", 369), (1, "ALIEN SUPERSTAR", 116), (2, "Don’t Stop Me Now", 203), (3, "Under Pressure", 152), (4, "Como Nossos Pais", 105), (
         5,
         "O Medo de Amar é o Medo de Ser Livre",
         207
